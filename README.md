@@ -2,7 +2,7 @@
 
 This repository contains a bash script for setting up Monero mining using the `xmrig` miner. Test on ARM (Pi4) systems and AMD systems.
 
-Create monero wallet >> https://www.getmonero.org/downloads/
+Create monero wallet >> https://www.getmonero.org/downloads/ <br>
 How to get wallet address >> https://youtube.com/clip/UgkxSWt49IkdTOb6ODT9u-623PHsPD8fCOIe
 
 ## Prerequisites
