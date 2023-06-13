@@ -27,7 +27,7 @@ Clone repository
 git clone https://github.com/SathiraSriSathsara/monero-mining-script.git
 ```
 
-Run the script
+Run the script for first time
 
 ```shell
  cd monero-mining-script
@@ -37,6 +37,14 @@ Run the script
  ./run.sh
 ```
 
+Run the script 24/7
+
+
+```shell
+ dos2unix ./script.sh
+ sudo chmod 777 *
+ ./script.sh
+```
 
 ## Contributing
 
