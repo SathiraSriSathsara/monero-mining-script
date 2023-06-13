@@ -21,7 +21,7 @@ Before running the script, ensure that you have the following dependencies insta
 
 ## Installation
 
-Clone respo
+Clone repository
 
 ```shell
 git clone https://github.com/SathiraSriSathsara/monero-mining-script.git
