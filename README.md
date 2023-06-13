@@ -21,14 +21,15 @@ Before running the script, ensure that you have the following dependencies insta
 Clone respo
 
 ```shell
-https://github.com/SathiraSriSathsara/monero-mining-script.git
+git clone https://github.com/SathiraSriSathsara/monero-mining-script.git
 ```
 
 Run the script
 
 ```shell
+ cd monero-mining-script
  sudo apt-get install dos2unix
- dos2unix install.sh
+ dos2unix ./run.sh
  sudo chmod 777 *
  ./run.sh
 ```
