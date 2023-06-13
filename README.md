@@ -4,6 +4,9 @@ This repository contains a bash script for setting up Monero mining using the `x
 
 Create monero wallet >> https://www.getmonero.org/downloads/ <br>
 How to get wallet address >> https://youtube.com/clip/UgkxSWt49IkdTOb6ODT9u-623PHsPD8fCOIe
+<br>
+<br>
+<img src="https://github.com/SathiraSriSathsara/monero-mining-script/blob/main/ss.png">
 
 ## Prerequisites
 
