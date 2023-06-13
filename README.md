@@ -7,7 +7,7 @@ How to get wallet address >> https://youtube.com/clip/UgkxSWt49IkdTOb6ODT9u-623P
 <br>
 <br>
 <img src="https://github.com/SathiraSriSathsara/monero-mining-script/blob/main/ss.png">
-
+<br>
 ## Prerequisites
 
 Before running the script, ensure that you have the following dependencies installed:
